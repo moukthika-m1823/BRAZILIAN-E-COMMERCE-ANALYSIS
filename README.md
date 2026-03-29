@@ -1,30 +1,54 @@
 # 📊 Brazilian E-Commerce Sales Analysis
 
-## 🔍 Project Overview
-Analyzed a large Brazilian e-commerce dataset to uncover business insights, customer behavior, and revenue trends using SQL, Python, Excel, and Power BI.
+## 🔍 Overview
+
+End-to-end data analysis project using SQL, Python, Excel, and Power BI to uncover business insights from a large Brazilian e-commerce dataset.
 
 ---
 
-## 🛠️ Tools & Technologies
-- SQL (MySQL)
-- Python (Pandas, Matplotlib)
-- Excel
-- Power BI
+## 🛠️ Tools Used
 
----
-
-## 📈 Key Insights
-- Identified top revenue-generating product categories
-- Found peak sales months and seasonal trends
-- Analyzed customer purchasing behavior
-- Evaluated delivery delays and order performance
+* SQL (MySQL)
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* Excel
+* Power BI
 
 ---
 
 ## 📊 Dashboard Preview
-https://github.com/moukthika-m1823/BRAZILIAN-E-COMMERCE-ANALYSIS/commit/54ae8070b781d7c0efcc019c74ed5e7a782a23cb
-https://github.com/moukthika-m1823/BRAZILIAN-E-COMMERCE-ANALYSIS/commit/688e125b7a0e23e8ecddc0d1316928fcf2a65df6
+
+![Dashboard](DASHBOARD.png)
+![Dashboard](Sales distribution dashboard.png)
+
+
+---
+
+## 📈 Key Insights
+
+* Identified top revenue-generating product categories
+* Analyzed monthly sales trends and seasonal patterns
+* Evaluated customer purchasing behavior
+* Measured delivery performance and delays
+
+---
+
+## 📂 Project Components
+
+* **SQL** → Data querying and analysis
+* **Python** → Data cleaning and exploratory data analysis (EDA)
+* **Power BI** → Interactive dashboard and visualization
+
+---
+
+## 📁 Project Structure
+
+* `sql/` → SQL queries
+* `python/` → Data analysis notebooks & screenshots
+* `dashboard/` → Power BI files
+* `data/` → Dataset files
+
 ---
 
 ## 🚀 Outcome
-Built an end-to-end data analytics project demonstrating data cleaning, analysis, and visualization skills.
+
+Built an end-to-end analytics project demonstrating skills in data cleaning, analysis, and visualization to support data-driven decision making.
