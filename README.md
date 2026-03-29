@@ -3,6 +3,7 @@
 ## 🔍 Overview
 
 End-to-end data analysis project using SQL, Python, Excel, and Power BI to uncover business insights from a large Brazilian e-commerce dataset.
+Dataset contains 100K+ e-commerce records including orders, customers, and products.
 
 ---
 
